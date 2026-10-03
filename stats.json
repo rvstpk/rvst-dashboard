@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-03T07:12:00.845834+00:00",
+  "updatedAt": "2026-10-03T12:39:02.672957+00:00",
   "tiktok": {
-    "followers": 714,
-    "hearts": 9382,
+    "followers": 713,
+    "hearts": 9396,
     "videos": 133
   },
   "youtube": {
-    "subscribers": 256,
+    "subscribers": 259,
     "totalViews": 148924,
-    "videos": 61
+    "videos": 62
   }
 }
