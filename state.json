@@ -1,50 +1,51 @@
 {
   "known_urls": [
-    "https://www.youtube.com/watch?v=ccym_SgD0lc",
-    "https://www.youtube.com/watch?v=tsb7SqMbu1k",
-    "https://www.tiktok.com/@rvst_officieel/video/7687257724840627489",
-    "https://www.tiktok.com/@rvst_officieel/video/7677605956536110358",
-    "https://www.youtube.com/watch?v=0mWlPe3Uu7U",
-    "https://www.tiktok.com/@rvst_officieel/video/7692803066919275809",
-    "https://www.tiktok.com/@rvst_officieel/video/7531814137337351457",
-    "https://www.youtube.com/watch?v=pIOV6g8bRFo",
-    "https://www.tiktok.com/@rvst_officieel/video/7678296314878102806",
-    "https://www.tiktok.com/@rvst_officieel/video/7682389822115220758",
-    "https://www.tiktok.com/@rvst_officieel/video/7677909676960320790",
-    "https://www.tiktok.com/@rvst_officieel/video/7677615322903498006",
-    "https://www.tiktok.com/@rvst_officieel/video/7692032755655331104",
-    "https://www.tiktok.com/@rvst_officieel/video/7559264418995932449",
     "https://www.tiktok.com/@rvst_officieel/video/7685423032197713185",
-    "https://www.youtube.com/watch?v=mpcY3t2bRiA",
-    "https://www.tiktok.com/@rvst_officieel/video/7679851497244462358",
-    "https://www.tiktok.com/@rvst_officieel/video/7538047322324880673",
     "https://www.tiktok.com/@rvst_officieel/video/7686445699810020640",
-    "https://www.tiktok.com/@rvst_officieel/video/7680183763476811010",
-    "https://www.tiktok.com/@rvst_officieel/video/7682769837378112790",
-    "https://www.tiktok.com/@rvst_officieel/video/7682003917726649622",
+    "https://www.tiktok.com/@rvst_officieel/video/7687257724840627489",
+    "https://www.tiktok.com/@rvst_officieel/video/7538047322324880673",
+    "https://www.youtube.com/watch?v=pIOV6g8bRFo",
+    "https://www.youtube.com/watch?v=mpcY3t2bRiA",
     "https://www.tiktok.com/@rvst_officieel/video/7684613917183675680",
-    "https://www.tiktok.com/@rvst_officieel/video/7685707684166815009",
-    "https://www.tiktok.com/@rvst_officieel/video/7681629018919079190",
-    "https://www.tiktok.com/@rvst_officieel/video/7681247340342332694",
+    "https://www.tiktok.com/@rvst_officieel/video/7680183763476811010",
     "https://www.tiktok.com/@rvst_officieel/video/7689086893794823457",
+    "https://www.tiktok.com/@rvst_officieel/video/7692803066919275809",
+    "https://www.tiktok.com/@rvst_officieel/video/7691270471349816608",
+    "https://www.tiktok.com/@rvst_officieel/video/7677615322903498006",
+    "https://www.tiktok.com/@rvst_officieel/video/7694986825441611041",
     "https://www.tiktok.com/@rvst_officieel/video/7680545462260141334",
     "https://www.youtube.com/watch?v=pMh6wIfKkxE",
-    "https://www.tiktok.com/@rvst_officieel/video/7691270471349816608"
+    "https://www.tiktok.com/@rvst_officieel/video/7682769837378112790",
+    "https://www.tiktok.com/@rvst_officieel/video/7685707684166815009",
+    "https://www.youtube.com/watch?v=ccym_SgD0lc",
+    "https://www.tiktok.com/@rvst_officieel/video/7682003917726649622",
+    "https://www.tiktok.com/@rvst_officieel/video/7559264418995932449",
+    "https://www.tiktok.com/@rvst_officieel/video/7692032755655331104",
+    "https://www.youtube.com/watch?v=tsb7SqMbu1k",
+    "https://www.tiktok.com/@rvst_officieel/video/7531814137337351457",
+    "https://www.tiktok.com/@rvst_officieel/video/7682389822115220758",
+    "https://www.tiktok.com/@rvst_officieel/video/7678296314878102806",
+    "https://www.tiktok.com/@rvst_officieel/video/7681247340342332694",
+    "https://www.youtube.com/watch?v=0mWlPe3Uu7U",
+    "https://www.tiktok.com/@rvst_officieel/video/7677605956536110358",
+    "https://www.tiktok.com/@rvst_officieel/video/7681629018919079190",
+    "https://www.tiktok.com/@rvst_officieel/video/7677909676960320790",
+    "https://www.tiktok.com/@rvst_officieel/video/7679851497244462358"
   ],
-  "last_post_date": "2026-10-04",
+  "last_post_date": "2026-10-10",
   "last_digest_date": "2026-10-10",
   "last_inactivity_alert_date": "2026-10-10",
   "seeded": true,
   "last_known_stats": {
     "tiktok": {
-      "followers": 716,
-      "hearts": 9494,
-      "videos": 134
+      "followers": 717,
+      "hearts": 9518,
+      "videos": 135
     },
     "youtube": {
-      "subscribers": 271,
+      "subscribers": 272,
       "totalViews": 155733,
-      "videos": 62
+      "videos": 63
     }
   },
   "sent_reminder_slots": [
@@ -92,6 +93,7 @@
     "2026-10-05_20",
     "2026-10-07_18",
     "2026-10-08_09",
-    "2026-10-08_22"
+    "2026-10-08_22",
+    "2026-10-10_16"
   ]
 }
