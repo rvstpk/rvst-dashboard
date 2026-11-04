@@ -45,13 +45,13 @@
   "seeded": true,
   "last_known_stats": {
     "tiktok": {
-      "followers": 724,
-      "hearts": 9952,
+      "followers": 725,
+      "hearts": 9955,
       "videos": 140
     },
     "youtube": {
       "subscribers": 278,
-      "totalViews": 163915,
+      "totalViews": 163935,
       "videos": 66
     }
   },
@@ -135,6 +135,7 @@
     "2026-10-29_14",
     "2026-10-29_20",
     "2026-10-31_12",
-    "2026-11-03_12"
+    "2026-11-03_12",
+    "2026-11-04_12"
   ]
 }
