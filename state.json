@@ -46,11 +46,11 @@
   "last_known_stats": {
     "tiktok": {
       "followers": 726,
-      "hearts": 9968,
+      "hearts": 10000,
       "videos": 140
     },
     "youtube": {
-      "subscribers": 278,
+      "subscribers": 279,
       "totalViews": 163945,
       "videos": 66
     }
@@ -136,6 +136,7 @@
     "2026-10-29_20",
     "2026-10-31_12",
     "2026-11-03_12",
-    "2026-11-04_12"
+    "2026-11-04_12",
+    "2026-11-05_16"
   ]
 }
